@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BallotApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_judge_page">JudgePage</string>
+    <string name="title_activity_ballot">Ballot</string>
+    <string name="title_activity_end">End</string>
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/libs/ParseCrashReporting-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55e71442ecbce939ce2a1ad75d1a4408a61d6804">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.0-a4150bd309ab6e7a180201656628eaadf4a57c91.jar" />
+    </item>
+    <item
+        jar="/Users/Shreyas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ae24a5126bef5e942ed586a1e03a03e55c6f70f4.jar" />
+    </item>
+    <item
+        jar="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/classes-75c100fa76bbe1199ab6a7dcb38f55537d76651a.jar" />
+    </item>
+    <item
+        jar="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e90cf81f84e1446bd0f1676d25300054c344494d.jar" />
+    </item>
+    <item
+        jar="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/libs/Parse-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61cf79e2775b882ac0ea32d60ea2dbbf6f245cea">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/Parse-1.8.0-77edfe0ae5bd49dd5bf766d268f6fc714e0532f0.jar" />
+    </item>
+    <item
+        jar="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/classes-282fa7e6cc4308c1934c5af320ff1604c033abae.jar" />
+    </item>
+    <item
+        jar="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/libs/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Shreyas/AndroidStudioProjects/BallotApp/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-4f111108445ae5fa93f94b52729441371a080307.jar" />
+    </item>
+
+</items>
